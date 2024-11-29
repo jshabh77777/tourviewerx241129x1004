@@ -1,0 +1,221 @@
+#: locale=zh
+
+## 介面
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_zh.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_zh.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_zh.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_zh.jpg
+Image_9E053D6C_A774_6597_41D4_327AAA73E16F.url = skin/Image_9E053D6C_A774_6597_41D4_327AAA73E16F_zh.jpg
+Image_B5A53686_A49E_6761_41D7_BB8C47835F24.url = skin/Image_B5A53686_A49E_6761_41D7_BB8C47835F24_zh.png
+Image_B6119903_A6EF_6595_41E2_3C67F0B5B98D.url = skin/Image_B6119903_A6EF_6595_41E2_3C67F0B5B98D_zh.png
+Image_B65DC79F_A48E_649F_41E0_2487760F3059.url = skin/Image_B65DC79F_A48E_649F_41E0_2487760F3059_zh.png
+Image_BAEC816C_A5D4_1D97_41D0_4D3E10F3530B.url = skin/Image_BAEC816C_A5D4_1D97_41D0_4D3E10F3530B_zh.jpg
+
+### 多行文字
+HTMLText_78186BDB_4CD1_BA4A_41C8_A04452AF6CEB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:37px;"><B>安築國際</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>地址</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:22px;"><B>臺北市士林區大南路354號1樓</B></SPAN></SPAN></DIV></div>
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.699999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>安築國際</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>士林旗艦展示點</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>Anzhu International LTD.Co.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>Materials Center Exhibition</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>我們產品有：</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>獨家開發『裝飾壁板』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>設計師愛用的『立體雕刻版』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>想讓家變得不一樣的『藝術拼磚』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>小空間愛好者的『造型摟空板』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>最強『背膠軟片』解決收邊的煩惱</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>擁有獨特造型的『櫥櫃門片』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>行銷歐美的『沙發家飾皮革』</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.27vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.27vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.949999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.569999999999988vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.6311111111110845vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.63vmin;font-family:'Oswald';"><B><I>安築國際</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.6311111111110845vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.63vmin;font-family:'Oswald';"><B><I>台北建材中心旗艦展示點</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.73vmin;font-family:'Oswald';"><B>Anzhu International LTD.Co.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.73vmin;font-family:'Oswald';"><B>Taiwan Design Materials Center Exhibition</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>我們產品有：</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>獨家開發『裝飾壁板』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>設計師愛用的『立體雕刻版』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>想讓家變得不一樣的『藝術拼磚』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>小空間愛好者的『造型摟空板』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>最強『背膠軟片』解決收邊的煩惱</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>擁有獨特造型的『櫥櫃門片』</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.731388888888888vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.73vmin;font-family:'Oswald';"><B><I>行銷歐美的『沙發家飾皮革』</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>ANZHU INTERNATIONAL LTD.CO</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.aplbm.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>iaplmbyes@gmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel.: +886 2 2882 7710</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>ANZHU INTERNATIONAL LTD.CO</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.aplbm.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>iaplmbyes@gmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel.: +886 2 2882 7710</I></SPAN></SPAN></DIV></div>
+
+### 工具提示
+Label_B93FFACE_A5BE_6CE1_41D1_42AB854FF546.toolTip = 123
+
+### 按鈕
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = 安築國際
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = 安築國際
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = 安築國際空間美學立邦生活館
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = 安築國際空間美學立邦生活館
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = 官網連結
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = 展點地址
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = 展點地址
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = 展點配置
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = 展點配置
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = 環景介紹
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = 環景介紹
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = 產品型錄
+
+### 標籤
+Label_22E69DA5_06FA_261C_4191_C586EFD2DC19.text = Label
+Label_6071FFD2_71F4_6EA5_41CD_C44C3A0D1213_mobile.text = 安築國際
+Label_B93FFACE_A5BE_6CE1_41D1_42AB854FF546.text = 安築國際空間美學
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = 安築國際空間美學
+
+## 媒體
+
+### Audio
+audiores_50C2861B_4BCF_878E_41C7_BD592007D9FB.mp3Url = media/audio_52D61FF6_4A41_8486_41D2_97D59D0EC428_zh.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_6378E103_71F4_D3AB_41B0_65F734484635.url = media/map_5B4D05C5_49C2_84FA_41C8_396FEF3B64BE_zh_0.jpg
+imlevel_6378F104_71F4_D3AD_41C1_8657AA51746D.url = media/map_5B4D05C5_49C2_84FA_41C8_396FEF3B64BE_zh_1.jpg
+imlevel_6378D105_71F4_D3AF_41D2_07A72BFEE4A9.url = media/map_5B4D05C5_49C2_84FA_41C8_396FEF3B64BE_zh_2.jpg
+imlevel_63782107_71F4_D3AB_41BB_AC5172E5FAAA.url = media/map_5B4D05C5_49C2_84FA_41C8_396FEF3B64BE_zh_3.jpg
+imlevel_22A22E34_06EA_627C_4150_94598019DB04.url = media/popup_100E568C_05AB_E22C_4194_D5975C5172B4_zh_0_0.jpg
+imlevel_22A20E35_06EA_627C_418B_C16417A3001A.url = media/popup_100E568C_05AB_E22C_4194_D5975C5172B4_zh_0_1.jpg
+imlevel_22A0ACA2_06EA_6614_4187_8551BCDCA3D2.url = media/popup_10610C26_059A_261C_4187_22C8273D8EE8_zh_0_0.jpg
+imlevel_22A09CA3_06EA_6614_4192_066DDED959DE.url = media/popup_10610C26_059A_261C_4187_22C8273D8EE8_zh_0_1.jpg
+imlevel_11B06488_059A_2614_4192_E43DE6A4F875.url = media/popup_1087D2B8_059E_6274_4192_9BA188358C83_zh_0_0.jpg
+imlevel_11B07488_059A_2614_4192_947A4E37DBF6.url = media/popup_1087D2B8_059E_6274_4192_9BA188358C83_zh_0_1.jpg
+imlevel_11B00488_059A_2614_4164_E144590D8034.url = media/popup_1087D2B8_059E_6274_4192_9BA188358C83_zh_0_2.jpg
+imlevel_22FBBE76_06EA_22FC_4177_30507CC11E1A.url = media/popup_108DD5AB_05FA_E614_4165_25F81F5258F6_zh_0_0.jpg
+imlevel_22FBAE77_06EA_22FC_4193_B5D56F4C8900.url = media/popup_108DD5AB_05FA_E614_4165_25F81F5258F6_zh_0_1.jpg
+imlevel_22E67CC2_06EA_2614_417D_621B8BA1D8C8.url = media/popup_109A6051_05EA_1E34_4190_5D39B791BFAE_zh_0_0.jpg
+imlevel_22E66CC3_06EA_2614_4195_103B651277FA.url = media/popup_109A6051_05EA_1E34_4190_5D39B791BFAE_zh_0_1.jpg
+imlevel_22F202B6_06ED_E27C_4190_81FAA478B22F.url = media/popup_10DA7D3C_05EE_666C_418D_C27563F2118A_zh_0_0.jpg
+imlevel_22F5E2B7_06ED_E27C_4167_BC713F4D9931.url = media/popup_10DA7D3C_05EE_666C_418D_C27563F2118A_zh_0_1.jpg
+imlevel_22AD4B3D_06EA_626F_4188_7897F0CF5389.url = media/popup_1144C75C_05E6_222C_4171_7708A1E83100_zh_0_0.jpg
+imlevel_22ACAB3F_06EA_626C_417D_20279FD705D6.url = media/popup_1144C75C_05E6_222C_4171_7708A1E83100_zh_0_1.jpg
+imlevel_22AB59DD_06EA_6E2C_4196_6170B30ADD31.url = media/popup_133CB045_05BE_7E1F_4157_072B316B901E_zh_0_0.jpg
+imlevel_22AB49DE_06EA_6E2C_418A_DAD94D145BAC.url = media/popup_133CB045_05BE_7E1F_4157_072B316B901E_zh_0_1.jpg
+imlevel_2246E18F_06EA_7E2C_418B_13810D7AF518.url = media/popup_13458111_05BA_7E34_4190_011535B3920C_zh_0_0.jpg
+imlevel_2246D190_06EA_7E34_417F_29A7B5C5275E.url = media/popup_13458111_05BA_7E34_4190_011535B3920C_zh_0_1.jpg
+imlevel_22561877_06EA_6EFC_418E_5F5316583287.url = media/popup_139E9A3A_05A6_E274_4197_3243F1F5C7DC_zh_0_0.jpg
+imlevel_22567878_06EA_6EF4_4170_8C8FDDA1C165.url = media/popup_139E9A3A_05A6_E274_4197_3243F1F5C7DC_zh_0_1.jpg
+imlevel_2255270E_06EA_622C_4151_099BCFC58FBE.url = media/popup_13AE54D9_05AB_E634_4180_07B1FCD99BC1_zh_0_0.jpg
+imlevel_2255170F_06EA_622C_418F_1CCD3B9D77A8.url = media/popup_13AE54D9_05AB_E634_4180_07B1FCD99BC1_zh_0_1.jpg
+imlevel_229F0236_06EA_227C_418D_E5612551E900.url = media/popup_18A1912E_06AE_1E6C_4184_49C33398F5AC_zh_0_0.jpg
+imlevel_229F3237_06EA_2267_4194_0B21532E5039.url = media/popup_18A1912E_06AE_1E6C_4184_49C33398F5AC_zh_0_1.jpg
+imlevel_229ED23D_06EA_226C_417F_9580795775ED.url = media/popup_18A1912E_06AE_1E6C_4184_49C33398F5AC_zh_0_2.jpg
+imlevel_22E149CA_06EA_2E14_4192_8E1441AA5B89.url = media/popup_1C04E769_069A_2214_418B_0D46C797DFD0_zh_0_0.jpg
+imlevel_22E179CB_06EA_2E14_4196_15F78731A5C4.url = media/popup_1C04E769_069A_2214_418B_0D46C797DFD0_zh_0_1.jpg
+imlevel_22E169CD_06EA_2E2C_4190_7DDFF20C7DD1.url = media/popup_1C04E769_069A_2214_418B_0D46C797DFD0_zh_0_2.jpg
+imlevel_22B18409_06EA_2614_417C_61DFDB178B60.url = media/popup_1C09514A_056E_3E14_4189_8157501475A7_zh_0_0.jpg
+imlevel_22BE940A_06EA_2614_4142_593DF609B3A2.url = media/popup_1C09514A_056E_3E14_4189_8157501475A7_zh_0_1.jpg
+imlevel_22BEB40B_06EA_2614_416A_2EEEEDF7B126.url = media/popup_1C09514A_056E_3E14_4189_8157501475A7_zh_0_2.jpg
+imlevel_22E1C998_06EA_2E34_4194_5B9352DE1655.url = media/popup_1C5AF3FA_069A_E1F4_4165_DD4C91C64B95_zh_0_0.jpg
+imlevel_22E1E999_06EA_2E34_412F_8935485B1794.url = media/popup_1C5AF3FA_069A_E1F4_4165_DD4C91C64B95_zh_0_1.jpg
+imlevel_224FEDB1_06EA_6674_4170_E4990A91260D.url = media/popup_1C9FF406_06AA_661C_4193_F0455037B0DE_zh_0_0.jpg
+imlevel_224CEDB2_06EA_6674_4190_6F633E44EBE6.url = media/popup_1C9FF406_06AA_661C_4193_F0455037B0DE_zh_0_1.jpg
+imlevel_224CCDB3_06EA_6674_417F_EE1363C50E2C.url = media/popup_1C9FF406_06AA_661C_4193_F0455037B0DE_zh_0_2.jpg
+imlevel_22B52642_06EA_2214_4182_A9405BCED0B8.url = media/popup_1CA172C8_056A_6214_4180_62BD72A45954_zh_0_0.jpg
+imlevel_22B22643_06EA_221B_4193_601E05ACC5BA.url = media/popup_1CA172C8_056A_6214_4180_62BD72A45954_zh_0_1.jpg
+imlevel_22B23644_06EA_221C_418F_C042DEA03FE7.url = media/popup_1CA172C8_056A_6214_4180_62BD72A45954_zh_0_2.jpg
+imlevel_2281BB04_06EA_2219_4182_B959C19BABF7.url = media/popup_1CA6CB56_0566_E23C_417B_DE4EB7744500_zh_0_0.jpg
+imlevel_228FBB0B_06EA_2214_4164_5AFEFC09CC3C.url = media/popup_1CA6CB56_0566_E23C_417B_DE4EB7744500_zh_0_1.jpg
+imlevel_228F5B0B_06EA_2214_4165_EDAF939752CE.url = media/popup_1CA6CB56_0566_E23C_417B_DE4EB7744500_zh_0_2.jpg
+imlevel_228A58F8_06EA_2FF4_4197_717413F47B38.url = media/popup_1CA85EF3_0566_63F4_4192_0ECA55D14F82_zh_0_0.jpg
+imlevel_228A68F9_06EA_2FF4_4197_276B934D8C92.url = media/popup_1CA85EF3_0566_63F4_4192_0ECA55D14F82_zh_0_1.jpg
+imlevel_228A78FA_06EA_2FF4_4177_22CAF3E601EF.url = media/popup_1CA85EF3_0566_63F4_4192_0ECA55D14F82_zh_0_2.jpg
+imlevel_22FE80EE_06EA_1FEC_4178_A1391A2187DC.url = media/popup_1CB264FF_069A_27EC_4189_7CB7F71F50FD_zh_0_0.jpg
+imlevel_22FE60EF_06EA_1FEC_4191_E96D9CC3D935.url = media/popup_1CB264FF_069A_27EC_4189_7CB7F71F50FD_zh_0_1.jpg
+imlevel_22FE70F0_06EA_1FF4_4179_98304416860A.url = media/popup_1CB264FF_069A_27EC_4189_7CB7F71F50FD_zh_0_2.jpg
+imlevel_2244303D_06EA_7E6C_418B_258848DEBCAA.url = media/popup_1D0660A9_056F_FE14_4196_129924D66503_zh_0_0.jpg
+imlevel_2244203E_06EA_7E6D_4194_B2E9A4DE674C.url = media/popup_1D0660A9_056F_FE14_4196_129924D66503_zh_0_1.jpg
+imlevel_22B9001A_06EA_1E34_4197_775BB30EDBC5.url = media/popup_1D0BA133_056A_1E74_4163_1699C938D98E_zh_0_0.jpg
+imlevel_22A7701C_06EA_1E2C_4192_E5B97CD73001.url = media/popup_1D0BA133_056A_1E74_4163_1699C938D98E_zh_0_1.jpg
+imlevel_22A7001D_06EA_1E2C_4191_F6B24BF3A86E.url = media/popup_1D0BA133_056A_1E74_4163_1699C938D98E_zh_0_2.jpg
+imlevel_22BDE225_06EA_221C_4197_B90FFFD8DFBA.url = media/popup_1D2AE394_0565_E23C_410C_BA820BAA8900_zh_0_0.jpg
+imlevel_22BAF227_06EA_221C_4191_47E988990244.url = media/popup_1D2AE394_0565_E23C_410C_BA820BAA8900_zh_0_1.jpg
+imlevel_22BA8228_06EA_2214_4143_D42FB1CE1778.url = media/popup_1D2AE394_0565_E23C_410C_BA820BAA8900_zh_0_2.jpg
+imlevel_22851D21_06EA_2614_4185_EAF727158531.url = media/popup_1D56E322_0565_E215_4186_AD6A4C52BE43_zh_0_0.jpg
+imlevel_22852D22_06EA_2614_4173_CD9CCDE24DBA.url = media/popup_1D56E322_0565_E215_4186_AD6A4C52BE43_zh_0_1.jpg
+imlevel_22852D28_06EA_2614_4180_755DA249D2BE.url = media/popup_1D56E322_0565_E215_4186_AD6A4C52BE43_zh_0_2.jpg
+imlevel_2251D5B0_06EA_6674_4191_890147C5F31A.url = media/popup_1D78FADF_05AA_222C_4181_C2DBB0F16447_zh_0_0.jpg
+imlevel_2251C5B6_06EA_667C_4188_92203B510590.url = media/popup_1D78FADF_05AA_222C_4181_C2DBB0F16447_zh_0_1.jpg
+imlevel_22E9969D_06EA_222C_418E_9EF98967A117.url = media/popup_1D90264A_06BE_6214_4190_B9E6A1C7CA4D_zh_0_0.jpg
+imlevel_22E9869E_06EA_222C_4193_BF0C6FB4795E.url = media/popup_1D90264A_06BE_6214_4190_B9E6A1C7CA4D_zh_0_1.jpg
+imlevel_2244800A_06EA_7E14_418A_2ACA2B9294A2.url = media/popup_1D9D3149_059E_7E14_4180_E4B20B74AAA0_zh_0_0.jpg
+imlevel_2244F00B_06EA_7E14_4165_62A09002106B.url = media/popup_1D9D3149_059E_7E14_4180_E4B20B74AAA0_zh_0_1.jpg
+imlevel_225FF45C_06EA_662C_4160_085D92ADEBC6.url = media/popup_1DA7BA1E_05AE_622C_4190_0E899FE9EAC1_zh_0_0.jpg
+imlevel_225FE45D_06EA_662C_418D_44053095BB7A.url = media/popup_1DA7BA1E_05AE_622C_4190_0E899FE9EAC1_zh_0_1.jpg
+imlevel_225A82F7_06EA_63FC_4165_B7EDEA02C170.url = media/popup_1DCEA7B1_05AA_2274_4192_2ED549B9483A_zh_0_0.jpg
+imlevel_225AF2F8_06EA_63F4_4172_258D8988044A.url = media/popup_1DCEA7B1_05AA_2274_4192_2ED549B9483A_zh_0_1.jpg
+imlevel_229474FB_06EA_27F4_4198_966E37ACCF3F.url = media/popup_1F6F1CE1_069E_6614_4173_9D680CF51007_zh_0_0.jpg
+imlevel_229244FC_06EA_27EC_4177_BB1069EBABF0.url = media/popup_1F6F1CE1_069E_6614_4173_9D680CF51007_zh_0_1.jpg
+imlevel_229274FD_06EA_27EC_4156_EADC561924FA.url = media/popup_1F6F1CE1_069E_6614_4173_9D680CF51007_zh_0_2.jpg
+imlevel_22991F84_06EA_221C_4196_112D04F81A1B.url = media/popup_1FA134C1_069A_2614_4187_B74FFE165245_zh_0_0.jpg
+imlevel_22861F86_06EA_221C_4188_8CBAC7F9D294.url = media/popup_1FA134C1_069A_2614_4187_B74FFE165245_zh_0_1.jpg
+imlevel_22863F87_06EA_221C_4192_E40A7B655893.url = media/popup_1FA134C1_069A_2614_4187_B74FFE165245_zh_0_2.jpg
+imlevel_22FE1120_06EA_1E14_4160_029B0A6E3740.url = media/popup_2401BF3D_06E6_E26C_4184_8F7D0BBD973F_zh_0_0.jpg
+imlevel_22F1F121_06EA_1E14_4152_594C813A9C2C.url = media/popup_2401BF3D_06E6_E26C_4184_8F7D0BBD973F_zh_0_1.jpg
+
+### Popup Image
+
+### 標題
+map_5B4D05C5_49C2_84FA_41C8_396FEF3B64BE.label = Floor Plan
+panorama_45699B83_49C6_8D7E_41AF_94B6602A03CD.label = 中_右_櫃檯
+panorama_456CF54C_49C6_858A_41C4_B884301FE3EC.label = 前_右_1
+panorama_456CFDC9_49C6_848A_418A_606AB4B92021.label = 前_右_2
+panorama_456C8762_49C6_85BE_41C6_27ABB1314D5A.label = 前_右_3
+panorama_456F9EC7_49C1_8486_41A6_13926F659B5D.label = 前_左_1
+panorama_456FB768_49C1_858A_41CE_83D7068236E7.label = 前_左_2
+panorama_456FBF2D_49C1_858A_41C7_983F5564C67D.label = 前_左_3
+panorama_456CD6D4_49C2_849A_41CF_4D80EABAE904.label = 前_左_4
+panorama_456CEFC7_49C2_8486_41D1_E8C8E885755D.label = 前_左_5
+panorama_456D4802_49C2_8B7E_41C1_EDF3D99B3CE4.label = 前_左_6
+panorama_450C63CC_49C1_9C8A_419C_5D6B068CB829.label = 大門_1
+panorama_456C6148_49C3_9D8A_41C8_F60E1FBC19FA.label = 後_右_1
+panorama_456DE9C8_49C3_8C8A_41B1_ABEF4953CC79.label = 後_右_2
+panorama_456DB27B_49C3_BF8E_41C3_647681622AC4.label = 後_右_3
+panorama_456CBB7D_49C2_8D8A_41C5_9340E104B1D1.label = 後_右_4
+panorama_456C83A8_49C2_9C8A_41CF_307039C112E5.label = 後_右_5
+panorama_456CAD1F_49C2_8585_41CB_0A4A9C31EFB1.label = 後_左_1
+panorama_456C652B_49C1_858E_4185_9A1FA393844A.label = 後_左_2
+panorama_456B9CAF_49C1_8486_416C_24F5F4881C13.label = 後_左_3
+panorama_456B8560_49C1_85BA_41CD_66E2AC1A79AD.label = 後_後_中_1
+panorama_45635442_49C7_BBFE_41C2_13C5B5B712B3.label = 走廊_1
+panorama_456DC001_49C7_9B7A_4197_3F2C31019462.label = 走廊_2
+panorama_456D6B2C_49C7_8D8A_41B2_A4C0BA01327F.label = 走廊_3
+
+## 操作
+
+### URL網址
+LinkBehaviour_1DF979C8_05AA_2E14_4193_F9948A9B79E0.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_16451BB9_059A_6274_418A_3AD4BF4EF411.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_1A4818BB_06A6_2E74_416D_D09EF9CBE4D5.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_1DC7C880_05AE_6E14_418B_29B0D0AAF568.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_1222069A_05AA_2234_4138_28C39C239A18.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_125D234E_05A6_E22C_4194_32E787DDEC63.source = https://drive.google.com/file/d/15jxsJTIjxuQcAhXMUZZdOuRbdorH8DTV/view?usp=drive_link
+LinkBehaviour_1A93E129_06AA_1E14_4186_34ED266C1956.source = https://drive.google.com/file/d/18E2yrNdFMqKByCDxxWpcTZmPDOC3XEtR/view?usp=drive_link
+LinkBehaviour_1DF3A044_06BA_1E1C_4139_69A4C2721908.source = https://drive.google.com/file/d/18_vVBoG9q3wpG6ZLNG_-zaNOF-pJ_K8E/view?usp=drive_link
+LinkBehaviour_1C8DFF3F_056A_626C_4182_C8B526CAA7CC.source = https://drive.google.com/file/d/18_vVBoG9q3wpG6ZLNG_-zaNOF-pJ_K8E/view?usp=drive_link
+LinkBehaviour_1337CCE7_05A5_E61C_4141_E779F130FA88.source = https://drive.google.com/file/d/1A-Ss-atXMlZPJTxD0G2Nyip1MDxs2k3r/view?usp=drive_link
+LinkBehaviour_117D82FF_05E6_63EC_418A_0C8B8E928A2E.source = https://drive.google.com/file/d/1A-Ss-atXMlZPJTxD0G2Nyip1MDxs2k3r/view?usp=drive_link
+LinkBehaviour_12BE08C4_05BE_2E1C_4147_8E2B661267E8.source = https://drive.google.com/file/d/1A-Ss-atXMlZPJTxD0G2Nyip1MDxs2k3r/view?usp=drive_link
+LinkBehaviour_1A3FA66B_06BA_2214_4185_14FCBF745945.source = https://drive.google.com/file/d/1BCNt1CXhlIwnK9C1T3zSO83nLuqmvb7w/view?usp=drive_link
+LinkBehaviour_1C349597_06AA_663C_4185_E4A03CEE43E9.source = https://drive.google.com/file/d/1BCNt1CXhlIwnK9C1T3zSO83nLuqmvb7w/view?usp=drive_link
+LinkBehaviour_1DDFC3EA_06BA_2214_416E_AD869D9DE25C.source = https://drive.google.com/file/d/1BCNt1CXhlIwnK9C1T3zSO83nLuqmvb7w/view?usp=drive_link
+LinkBehaviour_11E8D107_05FA_7E1C_418F_D973838EF1B7.source = https://drive.google.com/file/d/1BJRddHRmezqoACx6x251NoO7YkIQ_Ygz/view?usp=drive_link
+LinkBehaviour_11D5A64C_05EA_622C_418F_63A2729DF0A0.source = https://drive.google.com/file/d/1BJRddHRmezqoACx6x251NoO7YkIQ_Ygz/view?usp=drive_link
+LinkBehaviour_1CBF635D_056A_622C_4170_7BACE5EF5E17.source = https://drive.google.com/file/d/1BJRddHRmezqoACx6x251NoO7YkIQ_Ygz/view?usp=drive_link
+LinkBehaviour_13B42EF6_05EA_23FC_418A_DAEAD95DD133.source = https://drive.google.com/file/d/1BJRddHRmezqoACx6x251NoO7YkIQ_Ygz/view?usp=drive_link
+LinkBehaviour_1D53D306_06BA_221C_4187_2E6CE3792CBB.source = https://drive.google.com/file/d/1CZeSxTPqWe72JmBMs0MLfxtOp9kxhCES/view?usp=drive_link
+LinkBehaviour_1DAE18E2_06BA_2E14_4191_204D0DAF7529.source = https://drive.google.com/file/d/1CZeSxTPqWe72JmBMs0MLfxtOp9kxhCES/view?usp=drive_link
+LinkBehaviour_1C76F714_06A6_223C_418D_20BF8F48A1DF.source = https://drive.google.com/file/d/1CZeSxTPqWe72JmBMs0MLfxtOp9kxhCES/view?usp=drive_link
+LinkBehaviour_1DBE954A_06BA_6614_417B_852E3ED66F89.source = https://drive.google.com/file/d/1LRarmVOl2oBFF3dQ6iDaokTfYKacRk5Q/view?usp=drive_link
+LinkBehaviour_1D448F13_06A6_2234_417C_CE9D6752CE93.source = https://drive.google.com/file/d/1LRarmVOl2oBFF3dQ6iDaokTfYKacRk5Q/view?usp=drive_link
+LinkBehaviour_1A69DAAA_06AA_6214_4183_926FB13CC5C0.source = https://drive.google.com/file/d/1NA-HmhiQCYy6gtI9RMzt2q5bSwBrHlxZ/view?usp=drive_link
+LinkBehaviour_1C73DAD4_06AA_223D_418B_B79944EF2C5D.source = https://drive.google.com/file/d/1QzySL2tO8LRjiDeo2H6ZfVn-g-B3AuCf/view?usp=drive_link
+LinkBehaviour_1DE434A2_06BA_6615_4176_EF2BE2A928E1.source = https://drive.google.com/file/d/1QzySL2tO8LRjiDeo2H6ZfVn-g-B3AuCf/view?usp=drive_link
+LinkBehaviour_1CA4684A_06A6_6E14_4185_C27045B0D94B.source = https://drive.google.com/file/d/1QzySL2tO8LRjiDeo2H6ZfVn-g-B3AuCf/view?usp=drive_link
+LinkBehaviour_1D6D9184_06AE_FE1C_418F_AADFE88D46EE.source = https://drive.google.com/file/d/1VoFwwzf6lhuDFfy3T0d1mPOqS89EYmk1/view?usp=drive_link
+LinkBehaviour_1A6AE8DD_06AA_6E2C_4187_6AA940D443B2.source = https://drive.google.com/file/d/1W7voDg_KtrJTfSYvQFsFfo_r7do5gRmV/view?usp=drive_link
+LinkBehaviour_13389387_05AA_E21C_418E_8EF049EF9691.source = https://drive.google.com/file/d/1kBZnGAP_aFch_Du6b7Zdkc2Rg4zVhO2H/view?usp=drive_link
+LinkBehaviour_1308E232_05AE_2274_4187_FF0CF0168142.source = https://drive.google.com/file/d/1kBZnGAP_aFch_Du6b7Zdkc2Rg4zVhO2H/view?usp=drive_link
+LinkBehaviour_1B141A22_06A6_2214_4173_0F6D052CEF5F.source = https://drive.google.com/file/d/1n0NqIbCEYSG5OW7ZnlXoYMuQQjxNLp-H/view?usp=drive_link
+LinkBehaviour_103E0044_05A6_7E1C_4190_2BC1C2250C6B.source = https://drive.google.com/file/d/1uLo-oxaKcAQjwgnqPOXBcWQlQPmtt_v0/view?usp=drive_link
+LinkBehaviour_109D154B_059A_E614_418B_83D898F14570.source = https://drive.google.com/file/d/1uLo-oxaKcAQjwgnqPOXBcWQlQPmtt_v0/view?usp=drive_link
+LinkBehaviour_B75909F1_A6EF_6475_41E0_B28AADAD5B50.source = https://www.aplbm.com/
+LinkBehaviour_2120273A_06EE_2274_4193_24931CA56663.source = https://www.aplbm.com/
+LinkBehaviour_B0E34884_A58A_6B61_41D1_AACFDA90ECCB.source = https://www.aplbm.com/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d115655.7443330957!2d121.50835465467304!3d25.05978527418213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d25.059669099999997!2d121.5784656!5e0!3m2!1szh-TW!2stw!4v1630562799620!5m2!1szh-TW!2stw
+
+## 虛擬導覽
+
+### 標題
+tour.name = 士林展示中心新裝黃
+
+### 說明
